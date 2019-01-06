@@ -1,0 +1,5 @@
+What color is the sun?;yellow;blue;red;black;1
+What is a flower?;animate;inanimate;vegetation;city;3
+What kind of food is pizza?;italian;israeli;french;german;1
+In what part of the country is the city of Eilat?;north;sout;center;Yehuda and Shomron;2
+When was the first Lebanon War (Shlom HaGalil)?;1973;2006;1990;1982;4
